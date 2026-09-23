@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=007EC6&center=true&vCenter=true&width=600&lines=Building+Predictive+Models;Analyzing+Complex+Datasets;Crafting+Machine+Learning+Pipelines;IBM+Certified+Data+Scientist" alt="Typing Animation" />
 </div>
 
-<!-- Social Badges with Your Links -->
+<!-- Social Connect Badges -->
 <div align="center">
   <a href="https://linkedin.com/in/ankush-tiwari-05a5b737b"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:ankushtiwari5510@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -22,9 +22,32 @@ I am an aspiring Data Scientist and BCA student specializing in transforming raw
 
 ---
 
-## 🔄 Data Science Workflow & Core Expertise
+## 🛠️ Tech Stack & Tools (Logos & Names)
 
-My approach follows a structured, rigorous lifecycle from raw data ingestion to model deployment.
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+</div>
+
+---
+
+## 🔄 Data Science Workflow
 
 | Competency | Proficiency | Tools & Methodologies |
 | :--- | :---: | :--- |
@@ -33,23 +56,6 @@ My approach follows a structured, rigorous lifecycle from raw data ingestion to 
 | **Exploratory Data Analysis** | `█████████░` **4.5/5** | Feature Engineering, Statistical Testing, Data Visualization |
 | **Data Preprocessing** | `█████████░` **4.5/5** | Missing Value Imputation, Feature Scaling, Outlier Detection |
 | **Unsupervised Learning** | `████████░░` **4.0/5** | K-Means, DBSCAN, PCA, Dimensionality Reduction |
-
----
-
-## 🛠️ Languages & Technologies
-<div align="center">
-  <!-- Dynamic Skill Icons -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,c,mysql,git,github,vscode,linux&perline=8" alt="Tech Stack Logos" />
-  </a>
-</div>
-<br/>
-<div align="center">
-  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter" />
-</div>
 
 ---
 
