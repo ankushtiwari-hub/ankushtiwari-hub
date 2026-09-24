@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,12,28,38,60&height=180&section=header&text=ANKUSH%20TIWARI&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Data%20Scientist%20%26%20Machine%20Learning%20Engineer&descFontSize=16&descColor=00e5ff&descAlignY=62" alt="Ankush Tiwari Banner" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,12,28,38,60&height=180&section=header&text=ANKUSH%20TIWARI&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Data%20Scientist%20%26%20Machine%20Learning%20Engineer&descFontSize=16&descColor=00e5ff&descAlignY=62&v=1" alt="Ankush Tiwari Banner" width="100%"/>
 </div>
 
 <div align="center">
@@ -106,11 +106,7 @@ I am an aspiring **Data Scientist** and **BCA student** driven by the challenge 
 ## 🐍 GitHub Contribution Snake
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ankushtiwari-hub/ankushtiwari-hub/output/github-contribution-grid-snake.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ankushtiwari-hub/ankushtiwari-hub/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ankushtiwari-hub/ankushtiwari-hub/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://raw.githubusercontent.com/ankushtiwari-hub/ankushtiwari-hub/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
 
 ---
@@ -118,6 +114,6 @@ I am an aspiring **Data Scientist** and **BCA student** driven by the challenge 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankushtiwari-hub&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Ankush's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankushtiwari-hub&theme=radical&hide_border=true" alt="Ankush's GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ankushtiwari-hub&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=86400" alt="Ankush's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankushtiwari-hub&theme=radical&hide_border=true&cache_seconds=86400" alt="Ankush's GitHub Streak" width="48%" />
 </div>
