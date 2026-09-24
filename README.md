@@ -18,33 +18,45 @@
 I am an aspiring **Data Scientist** and **BCA student** driven by the challenge of transforming complex, raw data into high-performing predictive models and intelligent systems. Backed by an **IBM Data Science Professional Certification**, my core focus lies in engineering robust machine learning pipelines, conducting rigorous exploratory data analysis, and building algorithmic solutions that deliver tangible impact.
 
 ---
-
 ## 🛠️ Technical Arsenal
 
 ### Languages & Databases
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
 </div>
 
-### Data Science & ML Stack
+### Core Domains
+<div align="center">
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=databricks&logoColor=white" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Data_Science-1F77B4?style=flat-square&logo=anaconda&logoColor=white" alt="Data Science" />
+  <img src="https://img.shields.io/badge/Data_Analysis-4E79A7?style=flat-square&logo=tableau&logoColor=white" alt="Data Analysis" />
+  <img src="https://img.shields.io/badge/EDA-FF7F0E?style=flat-square&logo=plotly&logoColor=white" alt="EDA" />
+  <img src="https://img.shields.io/badge/Deep_Learning-2CA02C?style=flat-square&logo=tensorflow&logoColor=white" alt="Foundational Deep Learning" />
+  <img src="https://img.shields.io/badge/NLP-D62728?style=flat-square&logo=openai&logoColor=white" alt="Foundational NLP" />
+  <img src="https://img.shields.io/badge/Statistical_Analysis-9467BD?style=flat-square&logo=r&logoColor=white" alt="Statistical Analysis" />
+</div>
+
+### Libraries
 <div align="center">
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" alt="SciPy" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white" alt="Seaborn" />
+  <img src="https://img.shields.io/badge/NLTK-000000?style=flat-square&logo=python&logoColor=white" alt="NLTK" />
 </div>
 
-### Engineering & Environment
+### Tools
 <div align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
 </div>
-
 ---
 
 ## 📈 Core Competencies
