@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,12,28,38,60&height=180&section=header&text=ANKUSH%20TIWARI&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Data%20Scientist%20%26%20Machine%20Learning%20Engineer&descFontSize=16&descColor=00e5ff&descAlignY=62" alt="Ankush Tiwari Banner" width="100%"/>
 </div>
 
@@ -9,7 +9,7 @@
 <div align="center">
   <a href="https://linkedin.com/in/ankush-tiwari-05a5b737b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:ankushtiwari5510@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a hre
+  <a href="https://github.com/ankushtiwari-hub"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </div>
 
 ---
@@ -24,39 +24,25 @@ I am an aspiring **Data Scientist** and **BCA student** driven by the challenge 
 ### Languages & Databases
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
 </div>
 
-### Core Domains
-<div align="center">
-  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=databricks&logoColor=white" alt="Machine Learning" />
-  <img src="https://img.shields.io/badge/Data_Science-1F77B4?style=flat-square&logo=anaconda&logoColor=white" alt="Data Science" />
-  <img src="https://img.shields.io/badge/Data_Analysis-4E79A7?style=flat-square&logo=tableau&logoColor=white" alt="Data Analysis" />
-  <img src="https://img.shields.io/badge/EDA-FF7F0E?style=flat-square&logo=plotly&logoColor=white" alt="EDA" />
-  <img src="https://img.shields.io/badge/Deep_Learning-2CA02C?style=flat-square&logo=tensorflow&logoColor=white" alt="Foundational Deep Learning" />
-  <img src="https://img.shields.io/badge/NLP-D62728?style=flat-square&logo=openai&logoColor=white" alt="Foundational NLP" />
-  <img src="https://img.shields.io/badge/Statistical_Analysis-9467BD?style=flat-square&logo=r&logoColor=white" alt="Statistical Analysis" />
-</div>
-
-### Libraries
+### Data Science & ML Stack
 <div align="center">
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" alt="SciPy" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white" alt="Seaborn" />
-  <img src="https://img.shields.io/badge/NLTK-000000?style=flat-square&logo=python&logoColor=white" alt="NLTK" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
 </div>
 
-### Tools
+### Engineering & Environment
 <div align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" alt="Excel" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
 </div>
 
 ---
@@ -106,7 +92,7 @@ I am an aspiring **Data Scientist** and **BCA student** driven by the challenge 
 ## 🐍 GitHub Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ankushtiwari-hub/ankushtiwari-hub/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://github.com/ankushtiwari-hub/ankushtiwari-hub/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
 
 ---
@@ -114,6 +100,6 @@ I am an aspiring **Data Scientist** and **BCA student** driven by the challenge 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankushtiwari-hub&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=86400" alt="Ankush's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankushtiwari-hub&theme=radical&hide_border=true&cache_seconds=86400" alt="Ankush's GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ankushtiwari-hub&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Ankush's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankushtiwari-hub&theme=radical&hide_border=true" alt="Ankush's GitHub Streak" width="48%" />
 </div>
