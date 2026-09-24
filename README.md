@@ -1,95 +1,95 @@
-<!-- Dynamic Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20there,%20I'm%20Ankush%20Tiwari!&fontSize=40&fontAlignY=35&desc=Data%20Scientist%20%7C%20Machine%20Learning%20Engineer&descAlignY=55&descAlign=50" alt="Ankush Tiwari Banner" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,12,28,38,60&height=180&section=header&text=ANKUSH%20TIWARI&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Data%20Scientist%20%26%20Machine%20Learning%20Engineer&descFontSize=16&descColor=00e5ff&descAlignY=62" alt="Ankush Tiwari Banner" width="100%"/>
 </div>
 
-<!-- Dynamic Typing Effect (Running Text Animation) -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=007EC6&center=true&vCenter=true&width=600&lines=Building+Predictive+Models;Analyzing+Complex+Datasets;Crafting+Machine+Learning+Pipelines;IBM+Certified+Data+Scientist" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=620&lines=Architecting+Machine+Learning+Pipelines;Extracting+Insights+from+Complex+Data;Building+Scalable+AI+Solutions;IBM+Certified+Data+Scientist" alt="Typing Animation" />
 </div>
 
-<!-- Social Connect Badges -->
 <div align="center">
-  <a href="https://linkedin.com/in/ankush-tiwari-05a5b737b"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:ankushtiwari5510@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/ankushtiwari-hub"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-</div>
-
-<br/>
-
-## 👨‍💻 Profile Summary
-I am an aspiring Data Scientist and BCA student specializing in transforming raw data into high-performing predictive models. With an **IBM Data Science Professional Certification**, I focus on building end-to-end machine learning pipelines, uncovering hidden patterns through rigorous EDA, and designing algorithmic solutions for real-world problems.
-
----
-
-## 🛠️ Tech Stack & Tools (Logos & Names)
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <a href="https://linkedin.com/in/ankush-tiwari-05a5b737b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:ankushtiwari5510@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/ankushtiwari-hub"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </div>
 
 ---
 
-## 🔄 Data Science Workflow
+## ⚡ About Me
+I am an aspiring **Data Scientist** and **BCA student** driven by the challenge of transforming complex, raw data into high-performing predictive models and intelligent systems. Backed by an **IBM Data Science Professional Certification**, my core focus lies in engineering robust machine learning pipelines, conducting rigorous exploratory data analysis, and building algorithmic solutions that deliver tangible impact.
 
-| Competency | Proficiency | Tools & Methodologies |
+---
+
+## 🛠️ Technical Arsenal
+
+### Languages & Databases
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+</div>
+
+### Data Science & ML Stack
+<div align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
+</div>
+
+### Engineering & Environment
+<div align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+</div>
+
+---
+
+## 📈 Core Competencies
+
+| Domain | Proficiency | Key Methodologies & Metrics |
 | :--- | :---: | :--- |
-| **Supervised Learning** | `██████████` **5.0/5** | Linear/Logistic Regression, Random Forests, XGBoost, SVM |
-| **Model Evaluation** | `██████████` **5.0/5** | MSE, RMSE, R², AUC-ROC, Confusion Matrix, K-Fold CV |
-| **Exploratory Data Analysis** | `█████████░` **4.5/5** | Feature Engineering, Statistical Testing, Data Visualization |
-| **Data Preprocessing** | `█████████░` **4.5/5** | Missing Value Imputation, Feature Scaling, Outlier Detection |
-| **Unsupervised Learning** | `████████░░` **4.0/5** | K-Means, DBSCAN, PCA, Dimensionality Reduction |
+| **Supervised Learning** | `⭐⭐⭐⭐⭐` | Linear/Logistic Regression, Random Forests, XGBoost, Support Vector Machines |
+| **Model Evaluation** | `⭐⭐⭐⭐⭐` | MSE, RMSE, R², AUC-ROC, Confusion Matrix, K-Fold Cross-Validation |
+| **Exploratory Data Analysis** | `⭐⭐⭐⭐☆` | Advanced Feature Engineering, Statistical Hypothesis Testing, Data Visualization |
+| **Data Preprocessing** | `⭐⭐⭐⭐☆` | Missing Value Imputation, Feature Scaling, Outlier Detection, Encoding |
+| **Unsupervised Learning** | `⭐⭐⭐⭐☆` | K-Means Clustering, DBSCAN, Principal Component Analysis (PCA) |
 
 ---
 
 ## 💼 Experience & Education
 
-**Technical Intern** | *Acmegrade* 
-> 🔹 Engineered and optimized data-driven projects, applying core software engineering principles.<br>
-> 🔹 Collaborated on technical implementations, improving code efficiency and logic structure.
+**Technical Intern** | *Acmegrade*
+> 🔹 Engineered and optimized data-driven scripts, applying core software engineering paradigms.<br>
+> 🔹 Collaborated on functional implementations to enhance system efficiency and logical architecture.
 
 **Bachelor of Computer Applications (BCA)** | *Currently Enrolled*
-> 🔹 **Core Coursework:** Data Structures, Database Management Systems (DBMS), Algorithms.<br>
+> 🔹 **Core Focus:** Data Structures, Database Management Systems (DBMS), and Algorithm Design.
 
 **IBM Data Science Professional Certificate** | *Completed*
-> 🔹 Mastered Python for Data Science, SQL data extraction, and machine learning model development.
+> 🔹 Mastered foundational Python programming, SQL querying pipelines, and production-grade machine learning frameworks.
 
 ---
 
 ## 🚀 Flagship Projects
 
 ### 🧠 [The Neural Apprentice](https://github.com/ankushtiwari-hub/The-Neural-Apprentice)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![AI](https://img.shields.io/badge/AI-Architecture-FF9900?style=flat-square)
-> A comprehensive multi-module AI system built over a rigorous 60-day development sprint, focusing on intelligent data processing and predictive outputs.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![AI Architecture](https://img.shields.io/badge/AI-Architecture-FF9900?style=flat-square)
+> A multi-module AI system engineered across a rigorous 60-day development sprint, focusing on automated data processing and adaptive machine learning inference.
 
 ### 🎬 [Movie Recommendation Engine](https://github.com/ankushtiwari-hub/Movie-Recommendation-Engine)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-Scikit_Learn-F7931E?style=flat-square)
-> An advanced recommendation system utilizing collaborative filtering and dataset analysis to predict and suggest films tailored to user preferences.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+> An intelligent recommendation pipeline leveraging collaborative filtering and structured dataset analysis to accurately forecast user cinematic preferences.
 
 ### 🚗 [Used Car Price Prediction](https://github.com/ankushtiwari-hub/Used-Car-Price-Prediction)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Regression](https://img.shields.io/badge/Regression-Predictive_Modeling-007396?style=flat-square)
-> A predictive machine learning model leveraging historical automotive market data to accurately estimate vehicle resale values based on multi-variable inputs.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Regression Modeling](https://img.shields.io/badge/Regression-Predictive_Modeling-007396?style=flat-square)
+> A quantitative regression model trained on historical automotive market parameters to evaluate variables and predict accurate vehicle resale valuations.
 
 ---
 
-## 🐍 GitHub Contribution Snake Game
+## 🐍 GitHub Contribution Snake
 
 <div align="center">
   <img src="https://github.com/ankushtiwari-hub/ankushtiwari-hub/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
