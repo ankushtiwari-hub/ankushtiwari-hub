@@ -1,15 +1,15 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,12,28,38,60&height=180&section=header&text=ANKUSH%20TIWARI&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Data%20Scientist%20%26%20Machine%20Learning%20Engineer&descFontSize=16&descColor=00e5ff&descAlignY=62&v=1" alt="Ankush Tiwari Banner" width="100%"/>
+ <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,12,28,38,60&height=180&section=header&text=ANKUSH%20TIWARI&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Data%20Scientist%20%26%20Machine%20Learning%20Engineer&descFontSize=16&descColor=00e5ff&descAlignY=62" alt="Ankush Tiwari Banner" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=620&lines=Architecting+Machine+Learning+Pipelines;Extracting+Insights+from+Complex+Data;Building+Scalable+AI+Solutions;IBM+Certified+Data+Scientist" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=620&lines=Architecting+Machine+Learning+Pipelines;Extracting+Insights+from+Complex+Data;Building+Scalable+AI+Solutions;IBM+Certified+Data+Scientist" alt="Typing Animation" />
 </div>
 
 <div align="center">
   <a href="https://linkedin.com/in/ankush-tiwari-05a5b737b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:ankushtiwari5510@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/ankushtiwari-hub"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a hre
 </div>
 
 ---
