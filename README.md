@@ -20,16 +20,16 @@ I am an aspiring **Data Scientist** and **BCA student** driven by the challenge 
 ---
 ## 🛠️ Technical Arsenal
 
-<div align="center">
-### Languages & Databases
 
+### Languages & Databases
+<div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
 </div>
 
-<div align="center">
-### Core Domains
 
+### Core Domains
+<div align="center">
   <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=databricks&logoColor=white" alt="Machine Learning" />
   <img src="https://img.shields.io/badge/Data_Science-1F77B4?style=flat-square&logo=anaconda&logoColor=white" alt="Data Science" />
   <img src="https://img.shields.io/badge/Data_Analysis-4E79A7?style=flat-square&logo=tableau&logoColor=white" alt="Data Analysis" />
@@ -39,9 +39,9 @@ I am an aspiring **Data Scientist** and **BCA student** driven by the challenge 
   <img src="https://img.shields.io/badge/Statistical_Analysis-9467BD?style=flat-square&logo=r&logoColor=white" alt="Statistical Analysis" />
 </div>
 
-<div align="center">
-### Libraries
 
+### Libraries
+<div align="center">
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
