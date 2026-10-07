@@ -142,7 +142,7 @@ Artificial Intelligence
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,sql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,sql,sql&theme=dark" />
 
 </div>
 
@@ -400,11 +400,7 @@ alt="Top Languages"
 # 🏆 GITHUB TROPHIES
 
 <div align="center">
-
-<img
-src="https://github-profile-trophy.vercel.app/?username=ankushtiwari-hub&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=2&column=4"
-alt="GitHub Trophies"
-/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ankushtiwari-hub&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1&column=3" alt="GitHub Trophies" />
 
 </div>
 
@@ -413,13 +409,7 @@ alt="GitHub Trophies"
 # 📈 ACTIVITY GRAPH
 
 <div align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=ankushtiwari-hub&bg_color=0D1117&color=00E5FF&line=8B5CF6&point=FFFFFF&area=true&hide_border=true"
-width="100%"
-alt="GitHub Activity Graph"
-/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankushtiwari-hub&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
 </div>
 
 ---
@@ -429,10 +419,7 @@ alt="GitHub Activity Graph"
 <div align="center">
 
 <img
-src="https://github.com/ankushtiwari-hub/ankushtiwari-hub/raw/output/profile-3d-contrib/profile-night-rainbow.svg"
-width="100%"
-alt="3D GitHub Contribution Graph"
-/>
+src="https://github.com/ankushtiwari-hub/ankushtiwari-hub/raw/output/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D GitHub Contribution Graph"/>
 
 </div>
 
