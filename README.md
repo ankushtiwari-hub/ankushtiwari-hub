@@ -43,10 +43,6 @@ alt="Typing Animation"
 
 <br><br>
 
-<img
-src="https://komarev.com/ghpvc/?username=ankushtiwari-hub&style=for-the-badge&color=00e5ff&label=PROFILE+VIEWS"
-/>
-
 </div>
 
 ---
