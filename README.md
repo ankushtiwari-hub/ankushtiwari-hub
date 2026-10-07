@@ -1,395 +1,366 @@
+<!-- ========================================================= -->
+
+<!--                    ANKUSH TIWARI                         -->
+
+<!--             ADVANCED GITHUB PROFILE README               -->
+
+<!-- ========================================================= -->
+
 <div align="center">
 
-<!-- ==================== HEADER BANNER ==================== -->
+<!-- ====================== HERO ============================= -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,12,28,38,60&height=200&section=header&text=ANKUSH%20TIWARI&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Data%20Scientist%20%7C%20Machine%20Learning%20Engineer&descFontSize=18&descColor=00e5ff&descAlignY=62" width="100%" alt="Ankush Tiwari Banner"/>
+<img
+src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,25:0f172a,50:111827,75:172554,100:0f172a&height=300&section=header&text=ANKUSH%20TIWARI&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=DATA%20SCIENTIST%20%E2%80%A2%20MACHINE%20LEARNING%20ENGINEER%20%E2%80%A2%20AI%20BUILDER&descSize=18&descAlignY=58&animation=twinkling"
+width="100%"
+alt="Ankush Tiwari Hero Banner"
+/>
 
-<br/>
+<br>
 
-<!-- ==================== TYPING ANIMATION ==================== -->
+<!-- =================== TYPING ============================== -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=750&lines=Data+Scientist;Machine+Learning+Engineer;Building+Intelligent+Data+Systems;Exploring+Artificial+Intelligence;Turning+Data+Into+Insights;IBM+Certified+Data+Scientist" alt="Typing Animation"/>
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2500&pause=700&color=00E5FF&center=true&vCenter=true&width=900&lines=DATA+SCIENTIST;MACHINE+LEARNING+ENGINEER;AI+SYSTEM+BUILDER;PYTHON+DEVELOPER;DATA+ANALYTICS+ENTHUSIAST;BUILDING+INTELLIGENT+SYSTEMS;TURNING+DATA+INTO+INTELLIGENCE"
+alt="Typing Animation"
+/>
 
-<br/><br/>
+<br><br>
 
-<!-- ==================== SOCIAL LINKS ==================== -->
+<!-- =================== SOCIAL =============================== -->
+
+<a href="https://github.com/ankushtiwari-hub">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 <a href="https://linkedin.com/in/ankush-tiwari-05a5b737b">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:ankushtiwari5510@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/ankushtiwari-hub">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
+<br><br>
+
+<img
+src="https://komarev.com/ghpvc/?username=ankushtiwari-hub&style=for-the-badge&color=00e5ff&label=PROFILE+VIEWS"
+/>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+# 🧠 WHO AM I?
 
-Hello! I'm **Ankush Tiwari**, an aspiring **Data Scientist and Machine Learning Engineer** currently pursuing a **Bachelor of Computer Applications (BCA)**.
+<div align="center">
 
-I enjoy transforming raw and complex datasets into meaningful insights, predictive models, and intelligent systems.
+<img
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3500&pause=900&color=8B5CF6&center=true&vCenter=true&width=800&lines=I+build+systems+that+learn+from+data.;I+transform+raw+data+into+useful+insights.;I+experiment+with+Machine+Learning+%26+AI.;I+love+turning+ideas+into+working+software."
+alt="About Animation"
+/>
 
-My interests include:
+</div>
 
-* 🧠 Machine Learning
-* 📊 Data Science
-* 🔎 Exploratory Data Analysis
-* 🤖 Artificial Intelligence
-* 🧮 Statistics & Probability
-* 🛠️ Data Preprocessing
-* 📈 Predictive Modeling
-* 🗄️ SQL & Databases
-* 📊 Data Visualization
-* 🚀 Building End-to-End ML Projects
+I'm **Ankush Tiwari**, an aspiring **Data Scientist, Machine Learning Engineer and AI Builder** currently pursuing a **Bachelor of Computer Applications (BCA)**.
 
-I am continuously improving my ability to design complete data workflows — from **data collection and cleaning to analysis, modeling, evaluation, and deployment**.
-
----
-
-# 🎯 Current Focus
+My goal is to bridge the gap between:
 
 ```text
-Data Collection
-      ↓
-Data Cleaning
-      ↓
-Exploratory Data Analysis
-      ↓
-Feature Engineering
-      ↓
-Model Development
-      ↓
-Model Evaluation
-      ↓
-Optimization
-      ↓
-Deployment
-      ↓
-Monitoring
+                    DATA
+                      │
+                      ▼
+              ┌───────────────┐
+              │ DATA CLEANING  │
+              └───────┬───────┘
+                      │
+                      ▼
+              ┌───────────────┐
+              │     EDA       │
+              └───────┬───────┘
+                      │
+                      ▼
+              ┌───────────────┐
+              │    FEATURES   │
+              └───────┬───────┘
+                      │
+                      ▼
+              ┌───────────────┐
+              │ MACHINE       │
+              │ LEARNING      │
+              └───────┬───────┘
+                      │
+                      ▼
+              ┌───────────────┐
+              │ PREDICTION    │
+              └───────┬───────┘
+                      │
+                      ▼
+                  INTELLIGENCE
 ```
-
-Currently focusing on:
-
-* Advanced Machine Learning
-* Feature Engineering
-* Model Optimization
-* Statistical Analysis
-* Deep Learning fundamentals
-* Natural Language Processing
-* Data Visualization
-* End-to-End ML Pipelines
-* AI-powered applications
 
 ---
 
-# 🛠️ Technical Arsenal
-
-## 🐍 Programming Languages
+# ⚡ CURRENT MISSION
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+|  🔬 Research  |  🧠 Build  |  📊 Analyze  |     🚀 Deploy     |
+| :-----------: | :--------: | :----------: | :---------------: |
+| ML Algorithms | AI Systems | Complex Data | Production Models |
+
+</div>
+
+### Currently exploring
+
+```text
+Machine Learning
+        │
+        ├── Supervised Learning
+        ├── Unsupervised Learning
+        ├── Feature Engineering
+        ├── Model Optimization
+        ├── Ensemble Learning
+        │
+        ▼
+Deep Learning
+        │
+        ├── Neural Networks
+        ├── PyTorch
+        └── Representation Learning
+        │
+        ▼
+Artificial Intelligence
+        │
+        ├── NLP
+        ├── AI Agents
+        ├── Generative AI
+        └── Intelligent Automation
+```
+
+---
+
+# 🧰 TECHNOLOGY UNIVERSE
+
+## 🐍 Languages
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,c,sql&theme=dark" />
 
 </div>
 
 ---
 
-## 🧠 Data Science & Machine Learning
+## 🤖 AI / Machine Learning
 
 <div align="center">
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" />
+
+<br><br>
 
 <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
-<img src="https://img.shields.io/badge/Data%20Science-1F77B4?style=for-the-badge&logo=anaconda&logoColor=white"/>
-<img src="https://img.shields.io/badge/Data%20Analysis-4E79A7?style=for-the-badge&logo=tableau&logoColor=white"/>
-<img src="https://img.shields.io/badge/EDA-FF7F0E?style=for-the-badge&logo=plotly&logoColor=white"/>
-<img src="https://img.shields.io/badge/Statistics-9467BD?style=for-the-badge&logo=r&logoColor=white"/>
 <img src="https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/NLP-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-8B5CF6?style=for-the-badge&logo=probot&logoColor=white"/>
 
 </div>
 
 ---
 
-# 📚 Machine Learning Knowledge
-
-### Supervised Learning
-
-* Linear Regression
-* Multiple Linear Regression
-* Logistic Regression
-* Decision Trees
-* Random Forest
-* Support Vector Machines
-* K-Nearest Neighbors
-* Gradient Boosting
-* XGBoost
-
-### Unsupervised Learning
-
-* K-Means Clustering
-* DBSCAN
-* Hierarchical Clustering
-* Principal Component Analysis
-* Dimensionality Reduction
-
-### Model Evaluation
-
-* Mean Squared Error
-* Mean Absolute Error
-* Root Mean Squared Error
-* R² Score
-* Accuracy
-* Precision
-* Recall
-* F1 Score
-* ROC-AUC
-* Confusion Matrix
-* Cross-Validation
-
----
-
-# 📊 Data Science Workflow
-
-```text
-                 ┌────────────────────┐
-                 │   Raw Data         │
-                 └─────────┬──────────┘
-                           ↓
-                 ┌────────────────────┐
-                 │ Data Cleaning      │
-                 └─────────┬──────────┘
-                           ↓
-                 ┌────────────────────┐
-                 │ Data Exploration   │
-                 └─────────┬──────────┘
-                           ↓
-                 ┌────────────────────┐
-                 │ Feature Engineering│
-                 └─────────┬──────────┘
-                           ↓
-                 ┌────────────────────┐
-                 │ Model Training     │
-                 └─────────┬──────────┘
-                           ↓
-                 ┌────────────────────┐
-                 │ Model Evaluation   │
-                 └─────────┬──────────┘
-                           ↓
-                 ┌────────────────────┐
-                 │ Prediction         │
-                 └─────────┬──────────┘
-                           ↓
-                 ┌────────────────────┐
-                 │ Deployment         │
-                 └────────────────────┘
-```
-
----
-
-# 📦 Libraries & Frameworks
+## 📊 Data Science
 
 <div align="center">
+
+<img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib&theme=dark" />
+
+<br><br>
 
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/Statsmodels-4051B5?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Requests-20232A?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
 
 </div>
 
 ---
 
-# 🗄️ Databases
+## 🛠️ Development Tools
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter&theme=dark" />
 
-</div>
+<br><br>
 
----
-
-# 🧰 Developer Tools
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 
 </div>
 
 ---
 
-# 📈 Core Competencies
+# 📊 DATA SCIENCE PIPELINE
 
-| Domain                   | Level | Key Skills                                               |
-| :----------------------- | :---: | :------------------------------------------------------- |
-| 🧠 Supervised Learning   | ⭐⭐⭐⭐⭐ | Regression, Classification, Trees, SVM, Ensemble Methods |
-| 🔍 Data Analysis         | ⭐⭐⭐⭐⭐ | EDA, Data Profiling, Statistical Analysis                |
-| 🧹 Data Preprocessing    | ⭐⭐⭐⭐⭐ | Missing Values, Encoding, Scaling, Outlier Detection     |
-| 📊 Model Evaluation      | ⭐⭐⭐⭐☆ | RMSE, MAE, R², ROC-AUC, F1, Cross-Validation             |
-| 🔬 Feature Engineering   | ⭐⭐⭐⭐☆ | Feature Selection, Transformation, Scaling               |
-| 🔵 Unsupervised Learning | ⭐⭐⭐⭐☆ | K-Means, DBSCAN, PCA                                     |
-| 🤖 Deep Learning         | ⭐⭐⭐☆☆ | Neural Network Fundamentals, PyTorch                     |
-| 💬 NLP                   | ⭐⭐⭐☆☆ | Text Processing, Tokenization, Basic NLP                 |
-| 📊 Data Visualization    | ⭐⭐⭐⭐☆ | Matplotlib, Seaborn, Power BI                            |
+<div align="center">
 
----
+<img
+src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,18,20&height=80&section=header&text=RAW%20DATA%20%E2%86%92%20CLEANING%20%E2%86%92%20EDA%20%E2%86%92%20FEATURES%20%E2%86%92%20ML%20%E2%86%92%20EVALUATION%20%E2%86%92%20DEPLOYMENT&fontSize=17&fontColor=ffffff"
+width="100%"
+alt="Data Science Pipeline"
+/>
 
-# 🚀 Featured Projects
+</div>
 
-## 🧠 The Neural Apprentice
+### 🔹 Data Engineering
 
-**Repository:**
-[The Neural Apprentice](https://github.com/ankushtiwari-hub/The-Neural-Apprentice)
+* Data Collection
+* Data Cleaning
+* Missing Value Handling
+* Duplicate Detection
+* Outlier Detection
+* Data Transformation
+* Data Validation
 
-A multi-module AI and machine learning project developed through an intensive development sprint.
-
-### Focus Areas
-
-* Automated data processing
-* Machine learning workflows
-* Data analysis
-* Model inference
-* AI architecture
-* Modular Python development
-
-**Technologies:** `Python` `Machine Learning` `Data Science` `AI`
-
----
-
-## 🎬 Movie Recommendation Engine
-
-**Repository:**
-[Movie Recommendation Engine](https://github.com/ankushtiwari-hub/Movie-Recommendation-Engine)
-
-A recommendation system designed to analyze movie-related data and generate personalized movie recommendations.
-
-### Concepts
-
-* Recommendation systems
-* Data preprocessing
-* Similarity analysis
-* Feature engineering
-* Machine learning
-
-**Technologies:** `Python` `Pandas` `Scikit-Learn` `Machine Learning`
-
----
-
-## 🚗 Used Car Price Prediction
-
-**Repository:**
-[Used Car Price Prediction](https://github.com/ankushtiwari-hub/Used-Car-Price-Prediction)
-
-A machine learning regression project designed to estimate used-car prices based on historical vehicle attributes.
-
-### Concepts
+### 🔹 Data Analysis
 
 * Exploratory Data Analysis
-* Data Cleaning
+* Statistical Analysis
+* Correlation Analysis
+* Distribution Analysis
+* Visualization
+* Hypothesis Testing
+
+### 🔹 Machine Learning
+
 * Feature Engineering
-* Regression
+* Feature Selection
+* Model Training
+* Hyperparameter Optimization
+* Cross Validation
 * Model Evaluation
 
-**Technologies:** `Python` `Pandas` `NumPy` `Scikit-Learn`
+---
+
+# 🧠 MACHINE LEARNING ARSENAL
+
+| Category           | Algorithms                                             |
+| ------------------ | ------------------------------------------------------ |
+| 📈 Regression      | Linear Regression, Polynomial Regression, Ridge, Lasso |
+| 🎯 Classification  | Logistic Regression, KNN, SVM                          |
+| 🌳 Tree Models     | Decision Tree, Random Forest                           |
+| 🚀 Boosting        | Gradient Boosting, XGBoost                             |
+| 🔵 Clustering      | K-Means, DBSCAN                                        |
+| 📉 Dimensionality  | PCA                                                    |
+| 🧠 Neural Networks | Foundational Deep Learning                             |
+| 💬 NLP             | Text Processing, Tokenization, Feature Extraction      |
 
 ---
 
-# 💼 Experience
+# 📐 MODEL EVALUATION
 
-## Technical Intern — Acmegrade
+<div align="center">
 
-Worked on programming and data-driven development tasks while strengthening practical software engineering and analytical problem-solving skills.
+```text
+              MODEL
+                │
+       ┌────────┴────────┐
+       │                 │
+   REGRESSION       CLASSIFICATION
+       │                 │
+       ▼                 ▼
+     MAE               Accuracy
+     MSE               Precision
+     RMSE              Recall
+     R²                 F1
+                       ROC-AUC
+```
 
-### Key Areas
-
-* Python programming
-* Logical problem solving
-* Data-driven scripting
-* Software development fundamentals
-* Algorithmic thinking
-* Project implementation
-
----
-
-# 🎓 Education
-
-## Bachelor of Computer Applications — BCA
-
-**Currently Enrolled**
-
-### Core Areas
-
-* Data Structures
-* Algorithms
-* Database Management Systems
-* Computer Networks
-* Operating Systems
-* Object-Oriented Programming
-* Python Programming
-* Data Science
-* Machine Learning
+</div>
 
 ---
 
-# 🏆 Certifications
+# 🚀 FEATURED PROJECTS
 
-## IBM Data Science Professional Certificate
+## 🧠 THE NEURAL APPRENTICE
 
-Completed professional training covering:
+<a href="https://github.com/ankushtiwari-hub/The-Neural-Apprentice">
 
-* Python
-* SQL
-* Data Analysis
-* Data Visualization
-* Machine Learning
-* Statistical Analysis
-* Data Science Methodology
+<img
+src="https://github-readme-stats.vercel.app/api/pin/?username=ankushtiwari-hub&repo=The-Neural-Apprentice&theme=radical&hide_border=true"
+alt="The Neural Apprentice"
+/>
+
+</a>
+
+**AI / Machine Learning System**
+
+A multi-module AI project focused on data processing, machine learning workflows and intelligent inference.
+
+`Python` `AI` `Machine Learning` `Data Science`
 
 ---
 
-# 🐍 GitHub Contribution Snake
+## 🎬 MOVIE RECOMMENDATION ENGINE
+
+<a href="https://github.com/ankushtiwari-hub/Movie-Recommendation-Engine">
+
+<img
+src="https://github-readme-stats.vercel.app/api/pin/?username=ankushtiwari-hub&repo=Movie-Recommendation-Engine&theme=radical&hide_border=true"
+alt="Movie Recommendation Engine"
+/>
+
+</a>
+
+**Recommendation System**
+
+A machine learning recommendation pipeline designed to analyze movie information and produce relevant recommendations.
+
+`Python` `Pandas` `Scikit-Learn` `Recommendation Systems`
+
+---
+
+## 🚗 USED CAR PRICE PREDICTION
+
+<a href="https://github.com/ankushtiwari-hub/Used-Car-Price-Prediction">
+
+<img
+src="https://github-readme-stats.vercel.app/api/pin/?username=ankushtiwari-hub&repo=Used-Car-Price-Prediction&theme=radical&hide_border=true"
+alt="Used Car Price Prediction"
+/>
+
+</a>
+
+**Regression / Predictive Modeling**
+
+A machine learning system for estimating vehicle resale prices from historical automotive data.
+
+`Python` `Pandas` `NumPy` `Scikit-Learn` `Regression`
+
+---
+
+# 🐍 CONTRIBUTION SNAKE
 
 <div align="center">
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/ankushtiwari-hub/ankushtiwari-hub/output/github-contribution-grid-snake-dark.svg"
-  />
 
 <source
- media="(prefers-color-scheme: light)"
- srcset="https://raw.githubusercontent.com/ankushtiwari-hub/ankushtiwari-hub/output/github-contribution-grid-snake.svg"
+media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/ankushtiwari-hub/ankushtiwari-hub/output/github-contribution-grid-snake-dark.svg"
+/>
+
+<source
+media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/ankushtiwari-hub/ankushtiwari-hub/output/github-contribution-grid-snake.svg"
 />
 
 <img
- alt="GitHub Contribution Snake"
- src="https://raw.githubusercontent.com/ankushtiwari-hub/ankushtiwari-hub/output/github-contribution-grid-snake.svg"
+src="https://raw.githubusercontent.com/ankushtiwari-hub/ankushtiwari-hub/output/github-contribution-grid-snake.svg"
+alt="GitHub Contribution Snake"
 />
 
 </picture>
@@ -398,31 +369,31 @@ Completed professional training covering:
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GITHUB ANALYTICS
 
 <div align="center">
 
 <img
-src="https://github-readme-stats.vercel.app/api?username=ankushtiwari-hub&show_icons=true&theme=radical&hide_border=true&count_private=true"
-width="48%"
-alt="Ankush GitHub Stats"
+src="https://github-readme-stats.vercel.app/api?username=ankushtiwari-hub&show_icons=true&theme=radical&hide_border=true&count_private=true&rank_icon=github"
+width="49%"
+alt="GitHub Statistics"
 />
 
 <img
 src="https://github-readme-streak-stats.herokuapp.com/?user=ankushtiwari-hub&theme=radical&hide_border=true"
-width="48%"
-alt="Ankush GitHub Streak"
+width="49%"
+alt="GitHub Streak"
 />
 
 </div>
 
-<br/>
+<br>
 
 <div align="center">
 
 <img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankushtiwari-hub&layout=compact&theme=radical&hide_border=true"
-width="45%"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankushtiwari-hub&layout=donut-vertical&theme=radical&hide_border=true"
+width="38%"
 alt="Top Languages"
 />
 
@@ -430,75 +401,191 @@ alt="Top Languages"
 
 ---
 
-# 📌 GitHub Profile Summary
+# 🏆 GITHUB TROPHIES
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=ankushtiwari-hub\&color=00e5ff\&style=for-the-badge\&label=PROFILE+VIEWS)
+<img
+src="https://github-profile-trophy.vercel.app/?username=ankushtiwari-hub&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=2&column=4"
+alt="GitHub Trophies"
+/>
 
 </div>
 
 ---
 
-# 💡 What I Like Building
+# 📈 ACTIVITY GRAPH
+
+<div align="center">
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=ankushtiwari-hub&bg_color=0D1117&color=00E5FF&line=8B5CF6&point=FFFFFF&area=true&hide_border=true"
+width="100%"
+alt="GitHub Activity Graph"
+/>
+
+</div>
+
+---
+
+# 🧊 3D CONTRIBUTION GRAPH
+
+<div align="center">
+
+<img
+src="https://github.com/ankushtiwari-hub/ankushtiwari-hub/raw/output/profile-3d-contrib/profile-night-rainbow.svg"
+width="100%"
+alt="3D GitHub Contribution Graph"
+/>
+
+</div>
+
+---
+
+# 🏅 CERTIFICATION
+
+<div align="center">
+
+<img
+src="https://img.shields.io/badge/IBM-Data%20Science%20Professional%20Certificate-052FAD?style=for-the-badge&logo=ibm&logoColor=white"
+/>
+
+</div>
+
+### IBM Data Science Professional Certificate
+
+Key areas:
+
+* Python
+* SQL
+* Data Analysis
+* Data Visualization
+* Machine Learning
+* Statistics
+* Data Science Methodology
+
+---
+
+# 🎓 EDUCATION
+
+### 🎓 Bachelor of Computer Applications — BCA
+
+**Currently Enrolled**
+
+Focus areas:
 
 ```text
-🤖 Machine Learning Systems
-📊 Data Analysis Pipelines
-🧠 AI Applications
-📈 Predictive Models
-🔎 Data Exploration Tools
-🧹 Automated Data Cleaning Systems
-🎬 Recommendation Systems
-🚗 Regression Models
-📊 Interactive Dashboards
-⚙️ End-to-End ML Pipelines
+Data Structures
+Algorithms
+Database Management Systems
+Computer Networks
+Operating Systems
+Object Oriented Programming
+Python
+Data Science
+Machine Learning
 ```
 
 ---
 
-# 🌱 Currently Learning
+# 💼 EXPERIENCE
+
+### Technical Intern — Acmegrade
+
+Experience in:
+
+* Python programming
+* Data-driven development
+* Problem solving
+* Software engineering fundamentals
+* Algorithmic thinking
+* Project implementation
+
+---
+
+# 🌌 MY DEVELOPMENT PHILOSOPHY
+
+<div align="center">
+
+<img
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=850&lines=Understand+the+problem.;Understand+the+data.;Build+the+solution.;Measure+the+result.;Improve+continuously."
+alt="Development Philosophy"
+/>
+
+</div>
+
+---
+
+# 🔥 CURRENTLY BUILDING
 
 ```text
-Advanced Machine Learning
-        ↓
-Deep Learning
-        ↓
-Natural Language Processing
-        ↓
-MLOps
-        ↓
-Model Deployment
-        ↓
-Generative AI
-        ↓
-AI Agents
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│              🧠 AI / DATA SCIENCE LAB                  │
+│                                                         │
+│   ┌──────────┐     ┌──────────┐     ┌──────────┐       │
+│   │   DATA   │ ──> │   ML     │ ──> │   AI     │       │
+│   └──────────┘     └──────────┘     └──────────┘       │
+│                                           │             │
+│                                           ▼             │
+│                                      ┌──────────┐       │
+│                                      │ PRODUCT  │       │
+│                                      └──────────┘       │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-# 🎯 My Goal
+# 🌱 LEARNING ROADMAP
 
-> **To become a highly skilled Data Scientist and Machine Learning Engineer capable of building intelligent, scalable, and production-ready AI systems.**
+<div align="center">
 
-I believe that great data science is not only about building models — it is about understanding the problem, asking the right questions, preparing reliable data, evaluating solutions rigorously, and delivering useful results.
+| Stage | Focus                         |
+| :---: | ----------------------------- |
+|   ✅   | Python                        |
+|   ✅   | SQL                           |
+|   ✅   | Data Analysis                 |
+|   ✅   | Machine Learning Fundamentals |
+|   🔄  | Advanced Machine Learning     |
+|   🔄  | Deep Learning                 |
+|   🔄  | NLP                           |
+|   🔜  | MLOps                         |
+|   🔜  | Generative AI                 |
+|   🔜  | AI Agents                     |
+|   🔜  | Production AI Systems         |
+
+</div>
 
 ---
 
-# 🤝 Let's Connect
+# 💡 FUN FACT
+
+<div align="center">
+
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3500&pause=800&color=8B5CF6&center=true&vCenter=true&width=800&lines=Data+is+everywhere.;Patterns+are+hidden.;Machine+Learning+finds+them.;AI+turns+them+into+possibilities."
+alt="Fun Fact Animation"
+/>
+
+</div>
+
+---
+
+# 🤝 LET'S CONNECT
 
 <div align="center">
 
 <a href="https://linkedin.com/in/ankush-tiwari-05a5b737b">
-<img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:ankushtiwari5510@gmail.com">
-<img src="https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/ankushtiwari-hub">
-<img src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:ankushtiwari5510@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -507,10 +594,16 @@ I believe that great data science is not only about building models — it is ab
 
 <div align="center">
 
-### ⚡ Turning Data Into Intelligence
+<img
+src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:172554,100:020617&height=150&section=footer&animation=twinkling"
+width="100%"
+alt="Footer"
+/>
 
-**Thanks for visiting my profile!**
+### ⚡ DATA → INTELLIGENCE → IMPACT
 
-⭐ Feel free to explore my repositories and projects.
+**Thanks for visiting my GitHub profile.**
+
+⭐ Explore the repositories • 🤝 Connect • 🚀 Build something amazing
 
 </div>
