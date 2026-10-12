@@ -489,11 +489,11 @@ alt="Development Philosophy"
 ```text
 ┌─────────────────────────────────────────────────────────┐
 │                                                         │
-│              🧠 AI / DATA SCIENCE LAB                  │
+│             🧠 AI / DATA SCIENCE LAB                   |
 │                                                         │
-│   ┌──────────┐     ┌──────────┐     ┌──────────┐       │
-│   │   DATA   │ ──> │   ML     │ ──> │   AI     │       │
-│   └──────────┘     └──────────┘     └──────────┘       │
+│   ┌──────────┐     ┌──────────┐     ┌──────────┐        │
+│   │   DATA   │ ──> │   ML     │ ──> │   AI     │        │
+│   └──────────┘     └──────────┘     └──────────┘        │
 │                                           │             │
 │                                           ▼             │
 │                                      ┌──────────┐       │
@@ -510,18 +510,18 @@ alt="Development Philosophy"
 <div align="center">
 
 | Stage | Focus                         |
-| :---: | ----------------------------- |
-|   ✅   | Python                        |
-|   ✅   | SQL                           |
-|   ✅   | Data Analysis                 |
-|   ✅   | Machine Learning Fundamentals |
-|   🔄  | Advanced Machine Learning     |
-|   🔄  | Deep Learning                 |
-|   🔄  | NLP                           |
-|   🔜  | MLOps                         |
-|   🔜  | Generative AI                 |
-|   🔜  | AI Agents                     |
-|   🔜  | Production AI Systems         |
+| :---: | ----------------------------  |
+|   ✅ | Python                        |
+|   ✅ | SQL                           |
+|   ✅ | Data Analysis                 |
+|   ✅ | Machine Learning Fundamentals |
+|   🔄 | Advanced Machine Learning     |
+|   🔄 | Deep Learning                 |
+|   🔄 | NLP                           |
+|   🔜 | MLOps                         |
+|   🔜 | Generative AI                 |
+|   🔜 | AI Agents                     |
+|   🔜 | Production AI Systems         |
 
 </div>
 
