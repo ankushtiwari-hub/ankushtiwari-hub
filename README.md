@@ -368,19 +368,19 @@ alt="GitHub Contribution Snake"
 # 📊 GITHUB ANALYTICS
 
 
-
+<div align="center">
 <img
 src="https://github-readme-stats.vercel.app/api?username=ankushtiwari-hub&show_icons=true&theme=radical&hide_border=true&count_private=true&rank_icon=github"
 width="49%"
 alt="GitHub Statistics"
 />
-
+  
 <img
 src="https://github-readme-streak-stats.herokuapp.com/?user=ankushtiwari-hub&theme=radical&hide_border=true"
 width="49%"
 alt="GitHub Streak"
 />
-<div align="center">
+
 
 <img
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankushtiwari-hub&layout=donut-vertical&theme=radical&hide_border=true"
