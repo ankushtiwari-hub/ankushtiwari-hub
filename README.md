@@ -381,11 +381,6 @@ width="49%"
 alt="GitHub Streak"
 />
 
-</div>
-
-<br>
-
-<div align="center">
 
 <img
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankushtiwari-hub&layout=donut-vertical&theme=radical&hide_border=true"
